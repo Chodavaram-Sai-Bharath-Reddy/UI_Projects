@@ -16,11 +16,11 @@ function vowelsAndConsonants(s) {
 }
 
 
-function main() {
+function fun() {
     s = "hello world jkavascript"
     
     vowelsAndConsonants(s);
 }
 
-main()
+fun()
 
